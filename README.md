@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer
+I am a Computer Science student with a passion for Deep Learning, Android Development, and Data Science.
 
 
 ## 🌐 Socials:
